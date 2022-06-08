@@ -1,6 +1,6 @@
 # blemesh
 
-bluez package under raspberrypi folder support mesh.  
+bluez deb package under raspberrypi folder support mesh.  
 (included meshctl & config files)    
 
 copy 2 json files in /usr/share/doc/bluez to ~/.config/meshctl  
